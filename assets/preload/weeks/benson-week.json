@@ -1,0 +1,31 @@
+{
+	"storyName": "think positive",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "park",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"benson",
+		""
+	],
+	"songs": [
+		[
+			"real demoson",
+			"benson2",
+			[
+				195,
+				100,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "benson-week"
+}
