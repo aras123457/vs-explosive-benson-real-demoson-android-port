@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="benson_menu.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="benson0000" x="0" y="0" width="586" height="686" frameX="0" frameY="-9" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0001" x="586" y="0" width="582" height="685" frameX="-2" frameY="-8" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0002" x="1168" y="0" width="578" height="684" frameX="-4" frameY="-7" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0003" x="1746" y="0" width="574" height="682" frameX="-6" frameY="-7" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0004" x="2320" y="0" width="569" height="681" frameX="-9" frameY="-6" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0005" x="2889" y="0" width="565" height="679" frameX="-11" frameY="-5" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0006" x="3454" y="0" width="559" height="677" frameX="-14" frameY="-5" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0007" x="0" y="686" width="557" height="677" frameX="-15" frameY="-4" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0008" x="557" y="686" width="555" height="678" frameX="-16" frameY="-3" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0009" x="1112" y="686" width="553" height="677" frameX="-17" frameY="-3" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0010" x="1665" y="686" width="551" height="677" frameX="-18" frameY="-2" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0011" x="2216" y="686" width="548" height="677" frameX="-19" frameY="-1" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0012" x="2764" y="686" width="546" height="678" frameX="-20" frameY="0" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0013" x="3310" y="686" width="544" height="677" frameX="-21" frameY="0" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0014" x="0" y="1364" width="549" height="677" frameX="-17" frameY="0" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0015" x="549" y="1364" width="554" height="678" frameX="-14" frameY="-1" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0016" x="1103" y="1364" width="558" height="679" frameX="-11" frameY="-1" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0017" x="1661" y="1364" width="563" height="680" frameX="-7" frameY="-1" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0018" x="2224" y="1364" width="567" height="679" frameX="-4" frameY="-2" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0019" x="2791" y="1364" width="572" height="680" frameX="-1" frameY="-2" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0020" x="3363" y="1364" width="573" height="681" frameX="-1" frameY="-3" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0021" x="0" y="2045" width="574" height="681" frameX="-1" frameY="-4" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0022" x="574" y="2045" width="576" height="682" frameX="-1" frameY="-4" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0023" x="1150" y="2045" width="578" height="683" frameX="0" frameY="-5" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0024" x="1728" y="2045" width="579" height="683" frameX="0" frameY="-6" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0025" x="2307" y="2045" width="580" height="684" frameX="0" frameY="-6" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0026" x="2887" y="2045" width="582" height="684" frameX="0" frameY="-7" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0027" x="3469" y="2045" width="583" height="685" frameX="0" frameY="-7" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0028" x="0" y="2730" width="584" height="686" frameX="0" frameY="-8" frameWidth="586" frameHeight="695"/>
+	<SubTexture name="benson0029" x="584" y="2730" width="585" height="686" frameX="0" frameY="-9" frameWidth="586" frameHeight="695"/>
+</TextureAtlas>
